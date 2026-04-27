@@ -42,3 +42,7 @@ https://mistrnick.com/calc.html
 # Curve Gen
 - Target curve generator for Rational Acoustics Smaart software
 https://curvegen.sound-guidance.com/
+
+# Venue Database
+- Database of venue models on local disk
+https://venue-database.github.io/github.io/
