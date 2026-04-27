@@ -1,2 +1,33 @@
 # Live-Sound-System-Tools
 List of useful live sound resources
+
+
+# Convert Tool 
+- Convert between various venue model file formats
+https://convertool.co.uk/
+
+# Precision Audio Services
+- Various audio calculators and target curves
+https://www.precisionaudioservices.com/resources
+
+# COnvertifier
+- Convert between varous venue model file formats
+https://medgooroo.github.io/convertifer/
+
+# Big Rig Venue Database
+- Small database of venue files, mostly in SOundvision format
+https://big-rig.co/venue-database/
+
+# Meshomatic
+- Generate terrain data to import into sound prediction software
+https://medgooroo.github.io/meshomatic/leaflet.html
+
+# Measure Live
+- Venue modelling and SOundvision file conversion
+https://measurelive.com/
+https://mlc.measurelive.com
+
+# On-Axis
+- Venue design tool
+https://oksound.fi/oksound/on-axis/
+
