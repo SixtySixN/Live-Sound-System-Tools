@@ -10,12 +10,12 @@ https://convertool.co.uk/
 - Various audio calculators and target curves
 https://www.precisionaudioservices.com/resources
 
-# COnvertifier
+# Convertifier
 - Convert between varous venue model file formats
 https://medgooroo.github.io/convertifer/
 
 # Big Rig Venue Database
-- Small database of venue files, mostly in SOundvision format
+- Small database of venue files, mostly in Soundvision format
 https://big-rig.co/venue-database/
 
 # Meshomatic
@@ -23,7 +23,7 @@ https://big-rig.co/venue-database/
 https://medgooroo.github.io/meshomatic/leaflet.html
 
 # Measure Live
-- Venue modelling and SOundvision file conversion
+- Venue modelling and Soundvision file conversion
 https://measurelive.com/
 https://mlc.measurelive.com
 
