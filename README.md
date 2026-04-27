@@ -31,3 +31,10 @@ https://mlc.measurelive.com
 - Venue design tool
 https://oksound.fi/oksound/on-axis/
 
+# Wiki Gigs
+- Venue information and measurements, inactive but still a useful resource
+http://www.wiki-gigs.com/
+
+# Syscalc Live
+- Varios calculators for live audio use
+https://mistrnick.com/calc.html
