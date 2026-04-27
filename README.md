@@ -38,3 +38,7 @@ http://www.wiki-gigs.com/
 # Syscalc Live
 - Varios calculators for live audio use
 https://mistrnick.com/calc.html
+
+# Curve Gen
+- Target curve generator for Rational Acoustics Smaart software
+https://curvegen.sound-guidance.com/
