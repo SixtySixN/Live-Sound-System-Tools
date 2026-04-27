@@ -45,4 +45,4 @@ https://curvegen.sound-guidance.com/
 
 # Venue Database
 - Database of venue models on local disk
-https://venue-database.github.io/github.io/
+https://venue-database.github.io/Venue-Database/
