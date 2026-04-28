@@ -1,4 +1,4 @@
-# Live-Sound-System-Tools
+## Live-Sound-System-Tools
 List of useful live sound resources
 
 
@@ -46,3 +46,7 @@ https://curvegen.sound-guidance.com/
 # Venue Database
 - Database of venue models on local disk
 https://venue-database.github.io/Venue-Database/
+
+# AutoSV
+- Export Soundvision and Arraycalc rigging info to Excel for printing rigging sheets
+https://github.com/olicrump/AutoSV_Releases
