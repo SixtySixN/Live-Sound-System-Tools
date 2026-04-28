@@ -50,3 +50,7 @@ https://venue-database.github.io/Venue-Database/
 ## AutoSV
 - Export Soundvision and Arraycalc rigging info to Excel for printing rigging sheets
 https://github.com/olicrump/AutoSV_Releases
+
+## Rig View
+- Soundvision Viewer
+https://github.com/olicrump/AutoSV_Releases
