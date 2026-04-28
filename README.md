@@ -53,4 +53,4 @@ https://github.com/olicrump/AutoSV_Releases
 
 ## Rig View
 - Soundvision Viewer
-[https://github.com/olicrump/AutoSV_Releases](https://github.com/batuhanozbekozan/rigview)
+https://github.com/batuhanozbekozan/rigview
