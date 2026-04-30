@@ -45,7 +45,7 @@ https://curvegen.sound-guidance.com/
 
 ## Venue Database
 - Database of venue models on local disk
-https://venue-database.github.io/Venue-Database/
+https://sixtysixn.github.io/VenueDB/
 
 ## AutoSV
 - Export Soundvision and Arraycalc rigging info to Excel for printing rigging sheets
