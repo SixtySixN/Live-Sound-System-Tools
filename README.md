@@ -27,6 +27,10 @@ https://medgooroo.github.io/meshomatic/leaflet.html
 https://measurelive.com/
 https://mlc.measurelive.com
 
+## TraceForge
+- Mic compensation curve type thing
+https://edwardmountain.github.io/TraceForge/
+
 ## On-Axis
 - Venue design tool
 https://oksound.fi/oksound/on-axis/
